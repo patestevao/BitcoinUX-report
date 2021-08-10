@@ -276,171 +276,273 @@ For better contextualization, we've gathered some basic information about each o
 ##### Australia
 
 **Population:** 25,837,549
+
 **GDP per capita (IMF estimations from 2021):** US$ 62,723 – 15th in the world
+
 **Neighbouring countries:** no land borders. Sea borders with Papua New Guinea, Indonesia, East Timor, The Solomon Islands, Vanuatu, New Zealand
+
 **Official currency:** Australian dollar
+
 **Currency exchange rate to 1 US dollar:** 1.360861
+
 **Inflation rate:** 0.7% (2020 estimate)
+
 **External debt relative to GDP:** 130% of GDP 
 
 ##### Brazil
 
 **Population:** 213,459,366
+
 **GDP per capita (IMF estimations from 2021):** US$ 7,011 – 104th in the world
+
 **Neighbouring countries:** Argentina, Uruguay, Paraguay, Bolivia, Peru, Colombia, Venezuela, Guyana, Suriname, French Guiana
+
 **Official currency:** Real
+
 **Currency exchange rate to 1 US dollar:** 5.169541
+
 **Inflation rate:** 4.52% (2020 estimate)
+
 **External debt relative to GDP:** 38% of GDP
 
 ##### Germany
 
 **Population:** 83,121,363
+
 **GDP per capita (IMF estimations from 2021):** US$ 51,860 – 24th in the world
+
 **Neighbouring countries:** Netherlands, Belgium, France, Switzerland, Poland, Austria, Czech Republic, Denmark
+
 **Official currency:** Euro
+
 **Currency exchange rate to 1 US dollar:** 0.845764
+
 **Inflation rate:** 0.5% (2020 estimate)
+
 **External debt relative to GDP:** 165% of GDP
 
 ##### Greece
 
 **Population:** 10,718,565
+
 **GDP per capita (IMF estimations from 2021):** US$ 19,673 – 59th in the world
+
 **Neighbouring countries:** North Macedonia, Albania, Turkey, Bulgaria
+
 **Official currency:** Euro
+
 **Currency exchange rate to 1 US dollar:** 0.845764
+
 **Inflation rate:** 1.1% (2017 estimate)
+
 **External debt relative to GDP:** 298% of GDP
 
 ##### Israel
 
 **Population:** 9,376,994
+
 **GDP per capita (IMF estimations from 2021):** US$ 47,602 – 27th in the world  
+
 **Neighbouring countries:** Palestine, Jordan, Lebanon, Syria, Egypt
+
 **Official currency:** New shekel
+
 **Currency exchange rate to 1 US dollar:** 3.246915
+
 **Inflation rate:** 0.3% (2019 estimate)
+
 **External debt relative to GDP:** 33% of GDP
 
 ##### Italy
 
 **Population:** 59,169,131
+
 **GDP per capita (IMF estimations from 2021):** US$ 34,997 – 36th in the world  
+
 **Neighbouring countries:** Switzerland, France, Slovenia, Austria, San Marino
+
 **Official currency:** Euro
+
 **Currency exchange rate to 1 US dollar:** 0.845764
+
 **Inflation rate:** 1.3% (2017 estimate)
+
 **External debt relative to GDP:** 141% of GDP
 
 ##### Kenya
 
 **Population:** 47,564,296
+
 **GDP per capita (IMF estimations from 2021):** US$ 2,129 – 165th in the world  
+
 **Neighbouring countries:** Somalia, Ethiopia, Uganda, Tanzania, Sudan
+
 **Official currency:** Kenyan shilling
+
 **Currency exchange rate to 1 US dollar:** 108.60
+
 **Inflation rate:** 8% (2017 estimate)
+
 **External debt relative to GDP:** 26% of GDP
 
 ##### Mexico
 
 **Population:** 126,014,024
+
 **GDP per capita (IMF estimations from 2021):** US$ 9,246 – 90th in the world  
+
 **Neighbouring countries:** USA, Guatemala, Belize
+
 **Official currency:** Mexican peso
+
 **Currency exchange rate to 1 US dollar:** 19.950098
+
 **Inflation rate:** 3.15% (2020 estimate)
+
 **External debt relative to GDP:** 43% of GDP
 
 ##### Nigeria
 
 **Population:** 211,401,000
+
 **GDP per capita (IMF estimations from 2021):** US$ 2,432 – 160th in the world  
+
 **Neighbouring countries:** Cameroon, Niger, Benin, Chad
+
 **Official currency:** Naira
+
 **Currency exchange rate to 1 US dollar:** 411.50
+
 **Inflation rate:** 16.5% (2017 estimate)
+
 **External debt relative to GDP:** 2% of GDP
 
 ##### Philippines
 
 **Population:** 110,543,395
+
 **GDP per capita (IMF estimations from 2021):** US$ 3,646 – 141st in the world 
+
 **Neighbouring countries:** no land borders. Sea borders with China, Japan, Indonesia, Malaysia, Palau, Taiwan, Vietnam.
+
 **Official currency:** Philippine peso
+
 **Currency exchange rate to 1 US dollar:** 50.373322
+
 **Inflation rate:** 3.2% (2017 estimate)
+
 **External debt relative to GDP:** 27% of GDP
 
 ##### Portugal
 
 **Population:** 10,298,252
+
 **GDP per capita (IMF estimations from 2021):** US$ 25,065 – 53rd in the world 
+
 **Neighbouring countries:** Spain
+
 **Official currency:** Euro
+
 **Currency exchange rate to 1 US dollar:** 0.845764
+
 **Inflation rate:** 1.6% (2017 estimate)
+
 **External debt relative to GDP:** 203% of GDP
 
 ##### Romania
 
 **Population:** 19,317,984
+
 **GDP per capita (IMF estimations from 2021):** US$ 14,968 – 73rd in the world 
+
 **Neighbouring countries:** Moldova, Bulgaria, Serbia, Hungary, Ukraine
+
 **Official currency:** Romanian leu
+
 **Currency exchange rate to 1 US dollar:** 4.160154
+
 **Inflation rate:** 3.8% (2019 estimate)
+
 **External debt relative to GDP:** 58% of GDP
 
 ##### Spain
 
 **Population:** 47,394,223
+
 **GDP per capita (IMF estimations from 2021):** US$ 30,996 – 43rd in the world 
+
 **Neighbouring countries:** Portugal, France, Andorra
+
 **Official currency:** Euro
+
 **Currency exchange rate to 1 US dollar:** 0.845764
+
 **Inflation rate:** –0.5% (2020 estimate)
+
 **External debt relative to GDP:** 170% of GDP
 
 ##### Syria
 
 **Population:** 18,276,000
+
 **GDP per capita (IMF estimations from 2021):** US$ 2,807 – 152nd in the world 
+
 **Neighbouring countries:** Iraq, Turkey, Jordan, Lebanon, Israel
+
 **Official currency:** Syrian pound
+
 **Currency exchange rate to 1 US dollar:** 1,257.8616
+
 **Inflation rate:** 25.5% (2017 estimate)
+
 **External debt relative to GDP:** 24% of GDP
 
 ##### United Kingdom
 
 **Population:** 67,081,234
+
 **GDP per capita (IMF estimations from 2021):** US$ 46,344 – 29th in the world 
+
 **Neighbouring countries:** Ireland
+
 **Official currency:** Pound Sterling
+
 **Currency exchange rate to 1 US dollar:** 0.720281
+
 **Inflation rate:** 1.8% (2019 estimate)
+
 **External debt relative to GDP:** 345% of GDP
 
 ##### United States
 
 **Population:** 332,085,405
+
 **GDP per capita (IMF estimations from 2021):** US$ 68,309 – 10th in the world 
+
 **Neighbouring countries:** Mexico, Canada
+
 **Official currency:** United States dollar
+
 **Currency exchange rate to 1 US dollar:** 1
+
 **Inflation rate:** 5.4% (June 2021)
+
 **External debt relative to GDP:** 102% of GDP
 
 ##### Venezuela
 
 **Population:** 28,705,000
+
 **GDP per capita (IMF estimations from 2021):** US$ 1,542 – 176th in the world 
+
 **Neighbouring countries:** Brazil, Guyana, Colombia
+
 **Official currency:** Bolivar Soberano
+
 **Currency exchange rate to 1 US dollar:** 398,490,124,779.549683
+
 **Inflation rate:** 2,100% (2021 IMF estimate)
+
 **External debt relative to GDP:** 23% of GDP
 
 **Sources for the country data:**
