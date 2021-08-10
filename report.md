@@ -503,26 +503,37 @@ As the personas have their profile and stories, we used mostly coherent characte
 
 ***The one for whom Bitcoin fits right in.***
 
-**Country:** Nigeria
-**Age:** 22
-**Occupation:** Product development at a local startup.
+**Country:** 
+Nigeria
+
+**Age:** 
+22
+
+**Occupation:** 
+Product development at a local startup.
 
 **Frequency of usage:** (medium-high)
+
 Is always moving money in and out of Bitcoin in order to live.
 
 **Conscious importance given to Bitcoin being decentralized:** (high)
+
 Perceives is as seeing the opposite of his local reality of a weak centralized currency. 
 
 **Conscious importance given to Bitcoin being censorship-resistant:** (medium-high)
+
 Wants to be independent of government and banks restrictions.
 
 **Conscious importance given to physical security and privacy:** (high)
+
 He has a risk of being harassed by police or other security guards that can demand to see his phone and transfer money. Because of this, he puts high value in wallets with the feature of hiding themselves in the app list.
 
 **Conscious importance given to digital security and privacy:** (low)
+
 Doesn't see any problems in using custodial wallets.
 
 **How they describe their use case:**
+
 The main use case for Bitcoin is as a store of value, given that the local currency can't be trusted. But also takes it as a long-term investment as he expects it to increase value with wider adoption. "I expect to be an early-adopter in the future"
 
 **Quote:**
@@ -530,6 +541,7 @@ The main use case for Bitcoin is as a store of value, given that the local curre
 > "The perception that Bitcoin is too technical to use can be misleading and scare people away unnecessarily."
 
 **Musa's story:**
+
 Musa didn't need to be a cypherpunk or libertarian to understand Bitcoin's value because his daily life in Nigeria has taught him, in practice, not to trust central banking or the government. His reality is of a local fiat currency with a constantly plummeting value and a population who lives with very low incomes on an international level.
 
 Nevertheless, he says the country's youth is quite tech-savvy and welcoming of new technologies that can make their lives better. So he sees a bright future for Bitcoin in Nigeria. He believes that people don't need to learn all technical aspects of Bitcoin, they just need to see the value that it can offer.
@@ -541,6 +553,7 @@ His overall relationship with Bitcoin is quite positive in the sense that, rathe
 He uses any cryptocurrency that will serve a purpose for him, be it for a short-term investment, local liquidity, etc. But he considers Bitcoin the most solid one at the moment and that's where he keeps his savings.
 
 **How was their experience so far:**
+
 His initial approach was quite interesting: in order to learn, he did a deep-dive week on which he tried using multiple wallets and doing multiple operations until the operational aspects were clear for him. After that, he didn't have to worry about not knowing what to do.
 
 Finding P2P peers to transact with is usually not a problem. Even though is not widespread, there's a relatively established crypto interest among the population, so Bitcoin is quite liquid in practice. He even saw some random people on the market with crypto apps on their phones, which was a nice surprise.
@@ -567,26 +580,37 @@ curiosity, empowerment, challenging, useful.
 
 ***The all-in investor.***
 
-**Country:** United Kingdom
-**Age:** 52
-**Occupation:** Civil servant
+**Country:** 
+United Kingdom
+
+**Age:** 
+52
+
+**Occupation:** 
+Civil servant
 
 **Frequency of usage:** (medium-low)
+
 He doesn't transact much nowadays, mostly to revert profits to fiat.
 
 **Conscious importance given to Bitcoin being decentralized:** (medium-high)
+
 He knows that Bitcoin is a better store of value than fiat only because there isn't a central government behind it.
 
 **Conscious importance given to Bitcoin being censorship-resistant:** (medium)
+
 He actively finds it interesting, but probably wouldn't affect his usage.
 
 **Conscious importance given to physical security and privacy:** (medium)
+
 Just basic opsec of not announcing that he has a significant Bitcoin investment.
 
 **Conscious importance given to digital security and privacy:** (high)
+
 He pays a service to help him especially with this.
 
 **How they describe their use case:**
+
 He was mainly interested in a rentable medium/long-term investment, nothing like trading or other types of investment that you need to transform into a job by itself. Particularly after his economic studies that came with the Bitcoin investment, he started valuing it as a store of value against the constant fiat money devaluation.
 
 **Quote:**
@@ -594,6 +618,7 @@ He was mainly interested in a rentable medium/long-term investment, nothing like
 > "Uncertainty is something you definitely want to avoid when it comes to money"
 
 **Peter's story:**
+
 Peter was looking for a decent medium/long-term investment a few years ago, something for him to maintain, and hopefully increase a bit, his savings. And, even though he had access to everything in the traditional financial market, he was utterly disappointed with what it had to offer. Still, he didn't want to sit down and wait for his purchasing power to go away with inflation.
 
 Around 2015, he heard about Bitcoin on an online news website, researched about it, and decided it might just be the investment he was looking for. He started with some purchases to try it out and, after one year, all his investments were in Bitcoin and nothing else. Not even other cryptocurrencies interested him.
@@ -605,6 +630,7 @@ He has always used traditional Bitcoin exchanges with all the necessary KYC. To 
 He identifies himself with the ethos of an uncensorable means of transacting, but wouldn't be comfortable with going illegal if Bitcoin got banned, so he worries about how governments will regulate it.
 
 **How was their experience so far:**
+
 The first experiences with Bitcoin were a bit stressful for him. The biggest learning curve was the exchange interface, the wallet operational part wasn't so much of a problem after you get used to addresses. However, the idea of having to keep his backup very secure was intimidating and something that he has always worried about. 
 
 Nowadays, he uses a relatively expensive service that helps him secure his keys in a multi-sig setup where he doesn't have to trust them with control over the money. Although he wouldn't use a custodial service, he values reducing the burden of taking care of his keys all by himself. The thought that a single mistake on his part could lead to the loss of all his investments can be quite scary and the weight of this increases with the amount he owns.
@@ -627,26 +653,37 @@ intimidating, stressful, discovery, learning, trust, solid.
 
 ***The Bitcoin nerd.***
 
-**Country:** Germany
-**Age:** 19
-**Occupation:** Software developer
+**Country:** 
+Germany
+
+**Age:** 
+19
+
+**Occupation:** 
+Software developer
 
 **Frequency of usage:** (high)
+
 Now she uses it as part of her work and to receive regular payments.
 
 **Conscious importance given to Bitcoin being decentralized:** (high)
+
 Gives it a high personal value, even if she doesn't feel much of the practical need for it.
 
 **Conscious importance given to Bitcoin being censorship-resistant:** (high)
+
 Gives it a high personal value, even if she doesn't feel much of the practical need for it.
 
 **Conscious importance given to physical security and privacy:** (low)
+
 She lives in a safe environment and is not high-profile enough to be an individual target herself.
 
 **Conscious importance given to digital security and privacy:** (medium-high)
+
 Uses a hardware wallet and a redundant backup setup.
 
 **How they describe their use case:**
+
 It started political since this was the reason she got interested in it in the first place. But, as it developed into her profession, her use case evolved into work and receiving international payments for her compensation. An interesting addition to her particular use case was the fact that she started using as an underage before she could be accepted into the traditional fiat system.
 More recently, she took up the role of a merchant as well with her online store side business. 
 
@@ -655,6 +692,7 @@ More recently, she took up the role of a merchant as well with her online store 
 > "Even for me – a technical user – Bitcoin felt like executing nuclear code."
 
 **Ilse's story:**
+
 Ilse's Bitcoin journey started when she was still at school. At 16, she learned about it on online forums and was instantly intrigued by the proposed ethos of the project of being censorship-resistant and independent from government and central banks. "I know I speak from a relatively free country, but these are freedoms I don't think should depend on the benevolence of a given government."
 
 As she was already a programmer in her free time, she dove deep into the theoretical and technical knowledge about the technology, much before she made her first transaction on the mainnet to test it out. When she started using it, she was amazed at how simple it was to be "accepted" into the ecosystem. "As an underage, it was much easier to have access to money with Bitcoin than it was with a bank".
@@ -665,6 +703,7 @@ In the last few months, she set up an online shop in partnership with a friend o
 On her social group, she's the Bitcoin person who tries to evangelize it to everyone. But she believes that her generation will only adopt Bitcoin with modern and cool interfaces, and good UX.
 
 **How was their experience so far:**
+
 Since she learned how to use Bitcoin before learning how to deal with banks, she found banks much more complicated.
 
 Her overall experience as a user has been pretty smooth, especially because she studied the inner workings of the technology before using it.
@@ -691,26 +730,37 @@ passion, ideology, study, work
 
 ***The one who started using without understanding it first.***
 
-**Country:** Brazil
-**Age:** 38
-**Occupation:** writer for an international Bitcoin magazine
+**Country:** 
+Brazil
+
+**Age:** 
+38
+
+**Occupation:** 
+writer for an international Bitcoin magazine
 
 **Frequency of usage:** (high)
+
 Gets weekly pays for his work.
 
 **Conscious importance given to Bitcoin being decentralized:** (high)
+
 Doesn't trust the government or its currency, so sees Bitcoin as insurance from it.
 
 **Conscious importance given to Bitcoin being censorship-resistant:** (medium)
+
 Worries about the power of banks to decide what transactions are allowed or not.
 
 **Conscious importance given to physical security and privacy:** (medium-high)
+
 The fear of violent targeted attacks makes him extra discrete and careful when dealing with strangers and Bitcoin.
 
 **Conscious importance given to digital security and privacy:** (medium)
+
 Makes an effort to have an offline wallet, but doesn't have the budget or technical knowledge to go more sophisticated.
 
 **How they describe their use case:**
+
 His main need – the one who brought him to Bitcoin in the first place – is for easy international payments. This is how he gets paid when he writes articles for international magazines. But he also values a lot the feeling of being more private from government eyes and from the banks which are given almost a "police power" to define what's suspicious or not. Nowadays, he treats it as insurance from many failures of the fiat system.
 
 **Quote:**
@@ -718,6 +768,7 @@ His main need – the one who brought him to Bitcoin in the first place – is f
 > "I believed the anti-Bitcoin argument that Bitcoin couldn't have value because it was not backed by anything until I found out that our fiat money isn't either."
 
 **Hugo's story:**
+
 Hugo didn't have to be convinced about the problems of having a fiat currency under the control of his government. His parents were victims of a serious financial crisis that happened in Brazil a few decades ago, which ended with the government confiscating people's savings. And, even today, he faces daily political turmoil in the country which has a direct effect on the economy and the currency value.
 
 Nevertheless, he didn't start as a political user. His relationship with Bitcoin started quite suddenly when he found himself being paid in Bitcoin for his work as a writer. So he didn't have time to learn any important concepts or even get a full idea of how to use it before getting his first payment.
@@ -732,6 +783,7 @@ Another belief of his is that a blockchain-based solution could help reduce the 
 As for the local adoption, he perceives a common negative association between Bitcoin and the countless scams that used its name and which tricked many people in their desperate attempt to "make money". But he also believes, that, once they understand it, they'll not be so resistant. "It's a people with low education in average but used to changes and improvisation to survive."
 
 **How was their experience so far:**
+
 Even though his experience started with the pressure of already having his pay-check on a wallet, getting a grasp of the basic wallet operations wasn't so much of a problem. There was a learning period, but it wasn't a traumatic one. Certainly much easier than going through the necessary trouble that it is, both in complexity and taxes, to make an international transaction with fiat in Brazil.
 
 One thing that left a mark on him was the wallet setup process, which feels like a very tense operation. "There are so many warnings." The journey as a whole felt discouraging because of the fear it causes. Considering it was the first interaction with a wallet, he believes it should be the exact opposite.
@@ -757,26 +809,37 @@ As for spending, he only used Bitcoin directly for very specific purchases, such
 
 ***The one who lacks a compelling use-case.***
 
-**Country:** USA
-**Age:** 29
-**Occupation:** Reporter on a local news
+**Country:** 
+USA
+
+**Age:** 
+29
+
+**Occupation:** 
+Reporter on a local news
 
 **Frequency of usage:** (low)
+
 She started using it because a friend has sent her a bit. But she hasn't done much with it until now.
 
 **Conscious importance given to Bitcoin being decentralized:** (low)
+
 Finds it an interesting concept, but doesn't have a problem with her local fiat currency (US dollar).
 
 **Conscious importance given to Bitcoin being censorship-resistant:** (none)
+
 She doesn't seem to have complaints about the fiat system. 
 
 **Conscious importance given to physical security and privacy:** (low)
+
 Especially given the values she has dealt with in Bitcoin, she didn't even think about this. So her worry will be the same as having her phone stolen.
 
 **Conscious importance given to digital security and privacy:** (some)
+
 Recognizes the dangers of being hacked, but thinks that the best solution is to have a centralized institution to help her with that.
 
 **How they describe their use case:**
+
 She doesn't feel like there's a use case for her right now. But she might use it if more online merchants accepted it, especially for international transactions which she sees as one of the strong points of Bitcoin.
 
 **Quote:**
@@ -784,6 +847,7 @@ She doesn't feel like there's a use case for her right now. But she might use it
 > "I agree that banks and credit cards are cumbersome to start with, but they give you support in exchange for that."
 
 **Emma's story:**
+
 Emma is your typical "I have a friend who talks about Bitcoin all the time" person. And, as a true advocate, this friend tried explaining some basic Bitcoin concepts and helped her set up a wallet a couple of years ago. But, despite the efforts, she had a hard time understanding the purpose of it or finding a reason that would make it worth the trouble that it seemed to be.
 
 "It sounded like gift cards or something that I can already achieve with my credit card."
@@ -794,6 +858,7 @@ The hardest part for her was to trust something led by unknown people on the int
 But it isn't a lost affair. The skepticism is starting to fade as she sees that Bitcoin is going more mainstream, the market seems more mature and established, and the fact that the value has risen a lot also increased her confidence in it.
 
 **How was their experience so far:**
+
 Her experience is limited to the "bitcoin sessions" she had with her friend, so 
 
 She found the wallet app relatively easy to navigate through. Sending and receiving transactions doesn't seem like something difficult. She even mentioned that is cool to be able to label your transactions to help with your organization later on. The real problem for her is the transition between fiat and Bitcoin. "I currently have no idea how to transform my dollars into Bitcoin, sounds like something the wallet would do as well."
