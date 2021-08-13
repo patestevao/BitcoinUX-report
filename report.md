@@ -733,7 +733,7 @@ He identifies himself with the ethos of an uncensorable means of transacting, bu
 
 #### How was their experience so far
 
-The first experiences with Bitcoin were a bit stressful for him. The biggest learning curve was the exchange interface, the wallet operational part wasn't so much of a problem after you get used to addresses. However, the idea of having to keep his backup very secure was intimidating and something that he has always worried about. 
+The first experiences with Bitcoin were a bit stressful for him. The biggest learning curve was the exchange interface, the wallet operational part wasn't so much of a problem after you get used to addresses. However, the idea of having to keep his backup very secure was intimidating and something that he has always worried about. He remembers the anxiety of setting up some wallets that has quite a an alarming backup flow. "There are so many warnings, it's like I'm always about to do something wrong." 
 
 Nowadays, he uses a relatively expensive service that helps him secure his keys in a multi-sig setup where he doesn't have to trust them with control over the money. Although he wouldn't use a custodial service, he values reducing the burden of taking care of his keys all by himself. The thought that a single mistake on his part could lead to the loss of all his investments can be quite scary and the weight of this increases with the amount he owns.
 
